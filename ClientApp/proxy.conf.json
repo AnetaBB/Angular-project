@@ -1,0 +1,10 @@
+{
+  "/weatherforecast": {
+    "target": "https://tietotestapp.azurewebsites.net/api/SampleData/WeatherForecasts",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/weatherforecast": ""
+    }
+  }
+}

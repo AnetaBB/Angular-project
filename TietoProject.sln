@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TietoProject", "TietoProject.csproj", "{AAB5E254-0A3E-45D6-ACA5-39DAFD4DCDC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB5E254-0A3E-45D6-ACA5-39DAFD4DCDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB5E254-0A3E-45D6-ACA5-39DAFD4DCDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB5E254-0A3E-45D6-ACA5-39DAFD4DCDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB5E254-0A3E-45D6-ACA5-39DAFD4DCDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6632B44-5374-48CF-90D2-16C91164C1B9}
+	EndGlobalSection
+EndGlobal
